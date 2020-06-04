@@ -17,5 +17,6 @@ namespace NguyenThanhTung_lab456.Models
         {
             return new ApplicationDbContext();
         }
+
     }
 }

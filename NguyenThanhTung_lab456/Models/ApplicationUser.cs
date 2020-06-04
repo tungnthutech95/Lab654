@@ -16,6 +16,7 @@ namespace NguyenThanhTung_lab456.Models
             // Add custom user claims here
             return userIdentity;
         }
+
     }
 
     
